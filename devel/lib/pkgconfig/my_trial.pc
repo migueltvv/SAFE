@@ -1,0 +1,8 @@
+prefix=/home/safe/catkin_ws/devel
+
+Name: my_trial
+Description: Description of my_trial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

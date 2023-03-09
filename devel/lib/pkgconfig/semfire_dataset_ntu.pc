@@ -1,0 +1,8 @@
+prefix=/home/safe/catkin_ws/devel
+
+Name: semfire_dataset_ntu
+Description: Description of semfire_dataset_ntu
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

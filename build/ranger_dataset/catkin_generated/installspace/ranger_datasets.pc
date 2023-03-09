@@ -1,0 +1,8 @@
+prefix=/home/safe/catkin_ws/install
+
+Name: ranger_datasets
+Description: Description of ranger_datasets
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

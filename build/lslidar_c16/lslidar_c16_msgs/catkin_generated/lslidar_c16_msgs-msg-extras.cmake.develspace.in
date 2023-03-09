@@ -1,0 +1,2 @@
+set(lslidar_c16_msgs_MESSAGE_FILES "/home/safe/catkin_ws/src/lslidar_c16/lslidar_c16_msgs/msg/LslidarC16Layer.msg;/home/safe/catkin_ws/src/lslidar_c16/lslidar_c16_msgs/msg/LslidarC16Packet.msg;/home/safe/catkin_ws/src/lslidar_c16/lslidar_c16_msgs/msg/LslidarC16Point.msg;/home/safe/catkin_ws/src/lslidar_c16/lslidar_c16_msgs/msg/LslidarC16Scan.msg;/home/safe/catkin_ws/src/lslidar_c16/lslidar_c16_msgs/msg/LslidarC16Sweep.msg;/home/safe/catkin_ws/src/lslidar_c16/lslidar_c16_msgs/msg/LslidarC16ScanUnified.msg")
+set(lslidar_c16_msgs_SERVICE_FILES "")

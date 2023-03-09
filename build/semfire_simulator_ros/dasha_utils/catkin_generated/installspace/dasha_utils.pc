@@ -1,0 +1,8 @@
+prefix=/home/safe/catkin_ws/install
+
+Name: dasha_utils
+Description: Description of dasha_utils
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
